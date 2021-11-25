@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Cover image](https://media-exp1.licdn.com/dms/image/C4E16AQEa9-f1xKz7tw/profile-displaybackgroundimage-shrink_350_1400/0/1637095428593?e=1643241600&v=beta&t=Qxs_2dV3VzbRHl3YzKtnJ6XJhFOtAlI2XqbUNisWn90)
 
 <!--
 **joyreacher/joyreacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
