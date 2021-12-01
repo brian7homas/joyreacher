@@ -19,6 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyreacher&show_icons=true&locale=en" alt="joyreacher" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyreacher&" alt="joyreacher" /></p>
 
-![Metrics](https://metrics.lecoq.io/Joyreacher?template=classic&isocalendar=1&languages=1&introduction=1&activity=1&achievements=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FDenver)
+![Metrics](https://metrics.lecoq.io/joyreacher?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FDenver)
