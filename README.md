@@ -1,7 +1,7 @@
 <img src='https://media-exp1.licdn.com/dms/image/C4D16AQHuy3Nw3dH8xg/profile-displaybackgroundimage-shrink_350_1400/0/1638325537219?e=1643846400&v=beta&t=BTqc6BYi3fUA3wouzUKSscLeCbRXBbx8bh367_uZTxk' alt='banner' />
 <h3 align="center">A full stack developer from Colorado</h3>
 
-- 👨‍💻 All of my projects are available at [brianthomas-develops.com](brianthomas-develops.com)
+- 👨‍💻 All of my projects are available at [brianthomas-develops/portfolio](https://www.brianthomas-develops.com/portfolio/)
 
 - 📫 How to reach me **btdeveloper125@gmail.com**
 
