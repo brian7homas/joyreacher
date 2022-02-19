@@ -2,7 +2,7 @@
 
 <h3 align="center">A full stack web developer from Colorado</h3>
 
-- 👨‍💻 All of my projects are available at [brianthomas-develops/portfolio](https://www.brianthomas-develops.com/portfolio/)
+- 👨‍💻 All of my projects are available at [brianthomas-develops/works](https://www.brianthomas-develops.com/works/)
 
 - 📫 Contact me [here](portfolio@brianthomas-develops.com)
 <h3 align="left">Connect with me:</h3>
