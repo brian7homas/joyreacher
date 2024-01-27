@@ -1,5 +1,4 @@
-<img src='https://media-exp1.licdn.com/dms/image/C4E16AQH8hmRbvwEnQg/profile-displaybackgroundimage-shrink_200_800/0/1641399471775?e=1646870400&v=beta&t=wnmw4qjBWE-QlbtWcV71AQ6XaMsWDEWHrnSFpLmd5lg' alt='banner' />
-
+<img src="https://media.licdn.com/dms/image/D4E16AQHXvvpqCRwXYQ/profile-displaybackgroundimage-shrink_350_1400/0/1705428349030?e=1711584000&v=beta&t=SA3p_DjyEBt--lHgQXPX1iSi2aXx07owesZksKetGl0" alt="Brian Thomas"/>
 <h3 align="center">A full stack web developer from Colorado</h3>
 
 - 👨‍💻 All of my projects are available at [brianthomas-develops/](https://www.brianthomas-develops.com/)
@@ -17,9 +16,9 @@
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@b98a55ec-55a8-4a5a-b61b-25549fd750b8/1b37720d-1ca4-42bc-afdc-e323d84adf05.png" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyreacher&show_icons=true&locale=en&layout=compact" alt="joyreacher" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brian7homas&show_icons=true&locale=en&layout=compact" alt="joyreacher" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyreacher&show_icons=true&locale=en" alt="joyreacher" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brian7homas&show_icons=true&locale=en" alt="joyreacher" /></p>
 
 
 ![Metrics](https://metrics.lecoq.io/joyreacher?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FDenver)
